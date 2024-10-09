@@ -1,6 +1,6 @@
 ## AWS Elastic Kubernetes Service - Blue Green Deployment
 
-![img-diagram](diagram/diagram_capston_nanodegree.jpeg) 
+![img-diagram](diagram/diagram_capston_nanodegree.png) 
 
 This project will show you how to create you infrastructure using Cloudformation and Kubernetes (EKS)
 
